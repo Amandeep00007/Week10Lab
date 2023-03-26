@@ -60,4 +60,4 @@ Title: <input type="text" name="title" value=""><br>
             <a href="notes">cancel edit</a>
         </c:if>
     </body>
-</html>
+</html>1

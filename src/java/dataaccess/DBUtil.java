@@ -7,7 +7,7 @@ package dataaccess;
 
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
-
+1
 public class DBUtil {
     private static final EntityManagerFactory emf =
         Persistence.createEntityManagerFactory("NotesPU");

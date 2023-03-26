@@ -10,7 +10,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityTransaction;
 import models.Note;
 import models.User;
-
+1
 public class NoteDB {
 
     public List<Note> getAll(String owner) throws Exception {
